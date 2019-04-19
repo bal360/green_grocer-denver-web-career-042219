@@ -1,5 +1,3 @@
-require 'pry'
-
 def consolidate_cart(cart)
   consolidated = {}
   cart.each do | hash |
